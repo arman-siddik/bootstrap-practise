@@ -1,0 +1,62 @@
+    #header{
+     margin-left: 600px;
+    }
+    .logo{
+        height: 70px;
+    }
+    button{
+        background-color: black;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+    }
+    .col-md-6 img{
+        background-image: url(images/bg-1.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: 15%;
+            }
+    .second{
+        margin-bottom: 100px;
+    }
+
+     .card-body{
+         text-align: center;
+     }
+     .third{
+         margin-top: 80px;
+     }
+     .card{
+         
+         box-shadow: 5px 5px 10px lightgrey;
+     }
+     .four{
+         margin-top: 80px;
+     }
+     .five{
+         margin-top: 80px;
+     }
+     .cat{
+         text-align: center;
+     }
+
+     .one{
+      background-color: orange;
+     }
+     .two{
+         background-color: orangered;
+     }
+     .three{
+         background-color: orchid;
+     }
+     footer{
+         margin-top: 80px;
+         text-align: center;
+     }
+
+     
+     
+
+    
